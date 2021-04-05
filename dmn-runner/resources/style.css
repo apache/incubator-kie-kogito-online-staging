@@ -368,17 +368,17 @@
 }
 
 .kogito--editor__notifications-panel-button {
+  display: flex;
+  flex-direction: column;
   user-select: none;
   z-index: 999;
   right: 0;
   bottom: 5px;
   position: absolute;
   padding: 7px;
-  display: flex;
   align-items: center;
   justify-content: center;
   width: 35px;
-  height: 35px;
   font-size: var(--pf-global--FontSize--md);
   cursor: pointer;
   color: var(--pf-global--Color--dark-100) !important;
@@ -386,4 +386,18 @@
 
 .kogito--editor__notifications-panel-button.open {
   bottom: 355px;
+}
+
+.kogito--editor__notifications-panel-error-count-updated {
+  animation-name: highlight;
+  animation-duration: 1s;
+}
+
+@keyframes highlight {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
