@@ -97,8 +97,6 @@
   justify-content: center;
   align-items: center;
   padding: 1em;
-  z-index: 1000;
-  pointer-events: none;
 }
 
 .kogito--alert {
@@ -227,6 +225,13 @@
 
 .kogito--editor__embed-modal-embed-code-items {
   padding: var(--pf-global--spacer--xs);
+}
+
+.kogito-tooling--build-info {
+  font-size: 0.8em;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
 }
 
 .kogito--code {
@@ -536,6 +541,11 @@
 
 .kogito--editor__dmn-dev-sandbox-dropdown-item-status:focus {
   outline: none;
+}
+
+.kogito--editor__dmn-dev-sandbox-alert-container {
+  z-index: 1000;
+  pointer-events: none;
 }
 
 .success-icon {
