@@ -1,0 +1,1 @@
+define("ace/snippets/glsl",["require","exports","module"],(function(e,s,p){s.snippetText="",s.scope="glsl"}));

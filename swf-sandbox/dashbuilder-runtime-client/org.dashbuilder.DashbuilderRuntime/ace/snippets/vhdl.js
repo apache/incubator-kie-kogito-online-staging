@@ -1,0 +1,1 @@
+define("ace/snippets/vhdl",["require","exports","module"],(function(e,p,i){p.snippetText="",p.scope="vhdl"}));

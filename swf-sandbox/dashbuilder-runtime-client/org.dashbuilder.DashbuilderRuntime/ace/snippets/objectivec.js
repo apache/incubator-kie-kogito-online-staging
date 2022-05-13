@@ -1,0 +1,1 @@
+define("ace/snippets/objectivec",["require","exports","module"],(function(e,c,i){c.snippetText="",c.scope="objectivec"}));

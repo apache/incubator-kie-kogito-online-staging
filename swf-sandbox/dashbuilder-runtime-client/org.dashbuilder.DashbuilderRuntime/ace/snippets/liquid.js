@@ -1,0 +1,1 @@
+define("ace/snippets/liquid",["require","exports","module"],(function(e,i,p){i.snippetText="",i.scope="liquid"}));

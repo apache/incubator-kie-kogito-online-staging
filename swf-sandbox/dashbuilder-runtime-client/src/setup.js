@@ -1,0 +1,1 @@
+dashbuilder={mode:"EDITOR"};

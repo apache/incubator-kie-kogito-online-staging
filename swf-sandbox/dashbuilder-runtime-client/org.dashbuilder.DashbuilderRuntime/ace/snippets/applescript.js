@@ -1,0 +1,1 @@
+define("ace/snippets/applescript",["require","exports","module"],(function(e,p,i){p.snippetText="",p.scope="applescript"}));

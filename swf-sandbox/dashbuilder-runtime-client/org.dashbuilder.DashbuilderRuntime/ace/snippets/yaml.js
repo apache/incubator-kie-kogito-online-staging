@@ -1,0 +1,1 @@
+define("ace/snippets/yaml",["require","exports","module"],(function(e,p,i){p.snippetText="",p.scope="yaml"}));

@@ -1,0 +1,1 @@
+define("ace/snippets/ada",["require","exports","module"],(function(e,p,a){p.snippetText="",p.scope="ada"}));

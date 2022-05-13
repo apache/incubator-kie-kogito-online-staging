@@ -1,0 +1,1 @@
+define("ace/snippets/dockerfile",["require","exports","module"],(function(e,i,o){i.snippetText="",i.scope="dockerfile"}));

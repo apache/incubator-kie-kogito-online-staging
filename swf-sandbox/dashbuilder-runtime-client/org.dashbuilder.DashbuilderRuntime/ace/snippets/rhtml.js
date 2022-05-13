@@ -1,0 +1,1 @@
+define("ace/snippets/rhtml",["require","exports","module"],(function(e,t,p){t.snippetText="",t.scope="rhtml"}));

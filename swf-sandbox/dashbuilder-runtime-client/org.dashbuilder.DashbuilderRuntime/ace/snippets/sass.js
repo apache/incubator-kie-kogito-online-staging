@@ -1,0 +1,1 @@
+define("ace/snippets/sass",["require","exports","module"],(function(e,s,p){s.snippetText="",s.scope="sass"}));
